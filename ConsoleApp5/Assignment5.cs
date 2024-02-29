@@ -8,5 +8,3 @@ string completeName = $"{firstName} {lastName} the {order}st";
 Console.WriteLine(completeName);
 
 string suffix = "" ;
-
-Console.WriteLine(a);
